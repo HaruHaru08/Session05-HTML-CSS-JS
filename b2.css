@@ -1,0 +1,15 @@
+*{
+    background-color: black;
+}
+img{
+    width: 500px;
+    height: 400px;
+}
+p{
+    color:green;
+    font-weight: bold;
+    text-decoration: aqua underline dotted;
+}
+h1{
+    color: white;
+}
